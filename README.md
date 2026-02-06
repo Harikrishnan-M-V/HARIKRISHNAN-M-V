@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hari M V
+# 👋 Hi, I'm Harikrishnan M V
 
 🎓 BSc Chemistry Graduate (2022)  
 🔐 Aspiring Cybersecurity Analyst / Penetration Tester  
@@ -28,4 +28,4 @@
 All projects are created **strictly for educational purposes**  
 and tested only in **legal lab environments**.
 
-📫 LinkedIn: (add later)
+📫 LinkedIn: https://www.linkedin.com/in/harikrishnan-m-v-966400398/
