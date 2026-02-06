@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Hari M V
 
-<!--
-**Harikrishnan-M-V/HARIKRISHNAN-M-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Chemistry Graduate (2022)  
+🔐 Aspiring Cybersecurity Analyst / Penetration Tester  
+📚 Actively learning cybersecurity, networking & ethical hacking  
+🧪 Strong analytical background with hands-on security labs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- Networking: TCP/IP, DNS, HTTP/HTTPS
+- Linux & Bash
+- Web Security (OWASP Top 10)
+- Tools: Nmap, Metasploit, Burp Suite, Wireshark
+- Basics of Python for security scripting
+
+---
+
+## 📂 Cybersecurity Projects
+- 🧠 Cybersecurity notes & learning logs
+- 🧪 Metasploitable2 penetration testing lab
+- 🌐 OWASP Top 10 practical explanations
+- 🛠 Security tools usage & cheatsheets
+
+---
+
+## ⚠️ Disclaimer
+All projects are created **strictly for educational purposes**  
+and tested only in **legal lab environments**.
+
+📫 LinkedIn: (add later)
