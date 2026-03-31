@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harikrishnan M V
 
-🎓 BSc Chemistry Graduate (2022)  
+🎓 BSc Chemistry graduate aspiring to build a career in Cybersecurity.  
 🔐 Aspiring Cybersecurity Analyst / Penetration Tester  
 📚 Actively learning cybersecurity, networking & ethical hacking  
 🧪 Strong analytical background with hands-on security labs  
